@@ -1,6 +1,7 @@
 # Optimizador de enrutamiento costero
 
 **Equipo:** Guardianes de la costera · Taller Scrum · Ingeniería de Sistemas
+integrantes: johan vivisescas ,arnold cantillo, sebastian murcia , kemmell cabana, jaider lozano.
 
 Herramienta para planificar la ruta más corta con la que una lancha recolecta residuos acuáticos acumulados en dársenas, muelles y desembocaduras.
 
